@@ -1,0 +1,3 @@
+# my-first-repo
+exercise project
+#figuring out pull vs push, don't have the format down yet...
